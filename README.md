@@ -38,7 +38,7 @@ of sales.
     
 ## Screenshots
 
-!![s store](https://github.com/SiddharthNi/S_Store_Data_Analysis/assets/116881073/314dac91-545d-4b5c-a648-cfeba333702a)
+![s store](https://github.com/SiddharthNi/S_Store_Data_Analysis/assets/116881073/314dac91-545d-4b5c-a648-cfeba333702a)
 
 
 
