@@ -30,15 +30,10 @@ of sales.
 
 6. Amazon is the most used purchasing platform with a percentage of 35.48%.
 
+## Screenshot
 
+![sss](https://github.com/SiddharthNi/S_Store_Data_Analysis/assets/116881073/e59520cc-7269-49bd-a5bd-72728aa765ac)
 
-
-
-
-    
-## Screenshots
-
-![s store](https://github.com/SiddharthNi/S_Store_Data_Analysis/assets/116881073/314dac91-545d-4b5c-a648-cfeba333702a)
 
 
 
